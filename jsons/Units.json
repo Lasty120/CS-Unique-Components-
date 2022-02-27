@@ -1,0 +1,17 @@
+[
+{
+  "name": "Fierynomad",
+  "replaces": "Lancer",
+  "uniqueTo": "KazakhKhagan"
+  "unitType": "Mounted",
+  "movement": 4,
+  "strength": 32,
+  "cost": 80,
+  "requiredTech": "Metallurgy",
+  "uniques": ["[+50%] Strength <vs [Siege] units"],
+  "upgradesTo": "Destroyer"
+  "obsoleteTech": "Combustion"
+  "attackSound": "fire"
+}
+]
+   
