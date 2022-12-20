@@ -67,7 +67,7 @@
     },
 {
   "name": "Milanese Knight",
-  "uniques": ["[+15]% Strength < when fighting in [Open terrain] tiles>", "[+50]% XP gained from combat"]
+  "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[+50]% XP gained from combat"]
     },
 {
   "name": "Huota",
@@ -79,7 +79,65 @@
   "[+25]% to Flank Attack bonuses <after discovering [Metallurgy]>"]
     },
 {
-  "name": "",
-  "uniques": [""]
+  "name": "Finnish Sniper",
+  "uniques": ["[+2 Range]", "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"]
     },
+{
+  "name": "Lapu-Lapu warrior",
+  "uniques": ["[+15]% Strength <with [1] to [6] neighboring [Coast] tiles>", "[+20]% Strength <when adjacent to a [Great General] unit>"]
+    },
+{
+  "name": "Slave Archer",
+  "uniques": ["[+50]% Strength decreasing with distance from the capital <before discovering [Machinery]>", 
+  "[+30]% Strength decreasing with distance from the capital <after discovering [Machinery]>"]
+    },
+{
+  "name": "African Pirates",
+  "uniques": ["Earn [33]% of killed [Military] unit's [Cost] as [Gold]", "[+12]% Strength <before discovering [Combustion]>"]
+    },
+{
+  "name": "Bandeirants",
+  "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]", "[+10]% Strength <when fighting in [Jungle] tiles>"]
+    },
+{
+  "name": "Digger",
+  "uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>", "[+17]% Strength <before discovering [Replaceable Parts]>"]
+    },
+{
+  "name": "Phalanx",
+  "uniques": ["[+25]% Strength <when defending>", "[+15]% Strength <before discovering [Civil Service]>"]
+    },
+{
+  "name": "Golden Worker",
+  "uniques": ["Can construct [Golden Mine]"]
+    },
+{
+  "name": "Great Galleass",
+  "uniques": ["[+15]% Strength <before discovering [Navigation]>", "[+1] [Movement]"]
+    },
+{
+  "name": "Rondachier",
+  "uniques": ["[+50]% Strength <vs [Pikeman] units>", "[+20]% Strength <vs [Sword] units>"]
+    },
+{
+  "name": "Genoese Crossbowman",
+  "uniques": ["[+33]% Strength <when defending>"]
+    },
+{
+  "name": "Gurka",
+  "uniques": ["[+25]% Strength <<with [1] to [6] neighboring [Mountain] tiles>", "[+15]% Strength <when fighting in [Rough terrain] tiles>",
+  "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
+    },
+{
+  "name": "Singaporean Fleet",
+  "uniques": ["Can move after attacking"]
+    },
+{
+  "name": "Khananei",
+  "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>", "[+12]% Strength <when fighting in [Friendly Land] tiles>"]
+    },
+{
+  "name": "Suahili warrior",
+  "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting units from a Civilization with more Cities than you>"]
+    }
 ]
