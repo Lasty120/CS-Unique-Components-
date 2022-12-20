@@ -31,7 +31,7 @@
         "name": "Valletta",
         "friendBonusUniques": ["Provides military units every ≈[20] turns"],
         "allyBonusUniques": ["Provides military units every ≈[17] turns",
-        "Provides [1] []", "[Crossbowman] units gain the [Difensur] promotion", "Unique Building [Castle-Wall]"],
+        "Provides [1] [Castle-Wall res]", "[Crossbowman] units gain the [Difensur] promotion", "Unique Building [Castle-Wall]"],
         "color": [255, 0, 0]
     },
 {
