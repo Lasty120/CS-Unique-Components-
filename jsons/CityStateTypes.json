@@ -1,5 +1,50 @@
 [
 {
+        "name": "Bratislava type",
+        "friendBonusUniques":  [
+            "[+3 Faith] <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]>",
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
+            "Provides [1] [Castles System]", "[Knight] units gain the [Slavic Knight] promotion", "Unique Building [Castles System]"
+        ],
+        "color": [255, 255, 255]
+    },
+{
+        "name": "Cahokia",
+        "friendBonusUniques":  [
+            "[+3 Faith] <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
+            "Provides [1] [Cahokian Kurgan res]", "[Worker] units gain the [Cahokian Kurgan prom] promotion", "Unique Improvement [Cahokian Kurgan]", "[Kahokian warrior]"
+        ],
+        "color": [255, 255, 255]
+    },
+{
+        "name": "Jerusalem",
+        "friendBonusUniques":  [
+            "[+3 Faith] <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
+            "Provides [1] [Sinagoga res]", "[Swordsman] units gain the [Maccabee] promotion", "Unique Building [Sinagoga]"
+        ],
+        "color": [255, 255, 255]
+    }
+{
         "name": "Brussels type",
         "friendBonusUniques": [
             "[+3 Culture] <before the [Medieval era]>",
@@ -99,8 +144,8 @@
         "allyBonusUniques": [
             "[+6 Culture] <before the [Medieval era]>",
             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Castles System]", "[Knight] units gain the [Slavic Knight] promotion", 
-            "Unique Building [Castles System]"
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Sforza's Castle]", "[Knight] units gain the [Milanese Knight] promotion", 
+            "Unique Building [Sforza's Castle]"
         ],
         "color": [139, 96, 255]
     },
