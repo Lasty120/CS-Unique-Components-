@@ -231,7 +231,7 @@
         "name": "Rio de Janeiro type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Museum of Tomorrow res]", 
-        "[Musketman] units gain the [Baneirants] promotion", "Unique Building [Museum of Tomorrow]"],
+        "[Musketman] units gain the [Bandeirants] promotion", "Unique Building [Museum of Tomorrow]"],
         "color": [56, 255, 112]
     },
 {
