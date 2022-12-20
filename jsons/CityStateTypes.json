@@ -1,5 +1,40 @@
 [
 {
+        "name": "Almaty type",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns",
+        "Provides [1] [Aport production res]", "[Lancer] units gain the [Fiery Nomad] promotion", "Unique Building [Aport production]"],
+        "color": [255, 0, 0]
+    },
+{
+        "name": "Belgrade type",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns",
+        "Provides [1] [Belgadian Citadel res]", "[Great War Infantry] units gain the [Slavic Guard] promotion", "Unique Building [Belgadian Citadel]"],
+        "color": [255, 0, 0]
+    },
+{
+        "name": "M'Banza-Congo type",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns",
+        "[Swordsman] units gain the [Adageiros] promotion", "[Longswordsman] units gain the [Ambundu] promotion],
+        "color": [255, 0, 0]
+    },
+{
+        "name": "Sidon",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns",
+        "Provides [1] [Purple Glass production res]", "[Trireme] units gain the [Bireme] promotion", "Unique Building [Purple Glass production]"],
+        "color": [255, 0, 0]
+    },
+{
+        "name": "Valletta",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns",
+        "Provides [1] []", "[Crossbowman] units gain the [Difensur] promotion", "Unique Building [Castle-Wall]"],
+        "color": [255, 0, 0]
+    },
+{
         "name": "Bratislava type",
         "friendBonusUniques":  [
             "[+3 Faith] <before the [Medieval era]>",
