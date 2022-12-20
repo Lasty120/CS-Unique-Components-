@@ -3,4 +3,29 @@
   "name": "Fiery Nomad",
   "uniques": ["[+50]% Strength <vs [Siege] units>"]
     },
+{
+  "name": "Slavic Guard",
+  "uniques": ["Unit will heal every turn, even if it performs an action <before the [Atomic era]>",
+   "Heals [25] damage if it kills a unit"]
+    },
+{
+  "name": "Adageiros",
+  "uniques": ["Founds a new city", "[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+    },
+{
+  "name": "Ambundu",
+  "uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <before discovering [Steel]>"]
+    },
+{
+  "name": "Bireme",
+  "uniques": ["Can move after attacking", "Earn [10]% of killed [Military] unit's [Cost] as [Faith]"]
+    },
+{
+  "name": "Difensur",
+  "uniques": ["Damage is ignored when determining unit Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <before discovering [Industrialization]> <when attacking>"]
+    },
+{
+  "name": "Slavic Knight",
+  "uniques": ["Provides [1] [Horses] <before discovering [Military Science]>", "[+10]% Strength <before discovering [Military Science]>"]
+    },
 ]
