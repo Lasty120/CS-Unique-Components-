@@ -22,7 +22,8 @@
     },
 {
   "name": "Difensur",
-  "uniques": ["Damage is ignored when determining unit Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <before discovering [Industrialization]> <when attacking>"]
+  "uniques": ["Damage is ignored when determining unit Strength <when fighting in [Friendly Land] tiles>", 
+  "[+15]% Strength <before discovering [Industrialization]> <when attacking>"]
     },
 {
   "name": "Slavic Knight",
@@ -31,6 +32,54 @@
 {
   "name": "Cahokian warrior",
   "uniques": ["[+20]% Strength <before discovering [Civil Service]>", "[+100]% Strength <when fighting in [Cahokian Kurgan] tiles> <before discovering [Civil Service]>",
-"[+50]% Strength <when fighting in [Cahokian Kurgan] tiles> <after discovering [Civil Service]>"]
+  "[+50]% Strength <when fighting in [Cahokian Kurgan] tiles> <after discovering [Civil Service]>"]
+    },
+{
+  "name": "Maccabee",
+  "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith] <before discovering [Steel]>", 
+  "Earn [25]% of killed [Military] unit's [Cost] as [Faith] <after discovering [Steel]>"]
+    },
+{
+  "name": "Black Reiter",
+  "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [Foreign Land] tiles>"]
+    },
+{
+  "name": "Sagittaria",
+  "uniques": ["Can move after attacking"]
+    },
+{
+  "name": "Mong Dong",
+  "uniques": ["Can move after attacking <before discovering [Navigation]>", "[+15]% Strength <before discovering [Navigation]>"]
+    },
+{
+  "name": "Afghan Air Defense",
+  "uniques": ["[75]% chance to intercept air attacks", "[+75]% Strength <vs [Air] units>", "[+25]% Strength <vs [Helicopter] units>"]
+    },
+{
+  "name": "Orang Laut",
+  "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Gold] <before discovering [Astronomy]>", 
+  "Earn [25]% of killed [Military] unit's [Cost] as [Gols] <after discovering [Astronomy]>"]
+    },
+{
+  "name": "Shaolin",
+  "uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]", 
+  "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"]
+    },
+{
+  "name": "Milanese Knight",
+  "uniques": ["[+15]% Strength < when fighting in [Open terrain] tiles>", "[+50]% XP gained from combat"]
+    },
+{
+  "name": "Huota",
+  "uniques": ["[1] additional attacks per turn"]
+    },
+{
+  "name": "Amabuto",
+  "uniques": ["[+20]% Strength <when adjacent to a [Spearman] unit>", "[+50]% to Flank Attack bonuses <before discovering [Metallurgy]>", 
+  "[+25]% to Flank Attack bonuses <after discovering [Metallurgy]>"]
+    },
+{
+  "name": "",
+  "uniques": [""]
     },
 ]
