@@ -58,7 +58,7 @@
 {
   "name": "Orang Laut",
   "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Gold] <before discovering [Astronomy]>", 
-  "Earn [25]% of killed [Military] unit's [Cost] as [Gols] <after discovering [Astronomy]>"]
+  "Earn [25]% of killed [Military] unit's [Cost] as [Gold] <after discovering [Astronomy]>"]
     },
 {
   "name": "Shaolin",
@@ -80,7 +80,7 @@
     },
 {
   "name": "Finnish Sniper",
-  "uniques": ["[+2 Range]", "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"]
+  "uniques": ["[+2] Range", "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"]
     },
 {
   "name": "Lapu-Lapu warrior",
@@ -113,7 +113,7 @@
     },
 {
   "name": "Great Galleass",
-  "uniques": ["[+15]% Strength <before discovering [Navigation]>", "[+1] [Movement]"]
+  "uniques": ["[+15]% Strength <before discovering [Navigation]>", "[+1] Movement"]
     },
 {
   "name": "Rondachier",
@@ -125,7 +125,7 @@
     },
 {
   "name": "Gurka",
-  "uniques": ["[+25]% Strength <<with [1] to [6] neighboring [Mountain] tiles>", "[+15]% Strength <when fighting in [Rough terrain] tiles>",
+  "uniques": ["[+25]% Strength <with [1] to [6] neighboring [Mountain] tiles>", "[+15]% Strength <when fighting in [Rough terrain] tiles>",
   "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
     },
 {
