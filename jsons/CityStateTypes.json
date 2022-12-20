@@ -60,7 +60,8 @@
             "[+6 Faith] <before the [Medieval era]>",
             "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Faith] <starting from the [Industrial era]>",
-            "Provides [1] [Cahokian Kurgan res]", "[Worker] units gain the [Cahokian Kurgan prom] promotion", "Unique Improvement [Cahokian Kurgan]", "[Kahokian warrior]"
+            "Provides [1] [Cahokian Kurgan res]",
+"Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Kahokian warrior]"
         ],
         "color": [255, 255, 255]
     },
@@ -165,7 +166,7 @@
             "[+6 Culture] <before the [Medieval era]>",
             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Tibetan Kumbum res]", "[Longswordsman] units gain the [Shaolin] promotion", 
-            "Unique Improvement [Tibetan Kumbum]", "[Worker] units gain the [Tibetan Kumbum prom] promotion"
+            "Unique Improvement [Tibetan Kumbum]"
         ],
         "color": [139, 96, 255]
     },
@@ -251,7 +252,7 @@
         "name": "Vancouver type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Grenville-Iland res]", 
-        "[Worker] units gain the [Golden Mine prom] promotion", "Unique Building [Grenville-Iland]"],
+        "[Worker] units gain the [Golden Worker] promotion", "Unique Building [Grenville-Iland]"],
         "color": [56, 255, 112]
     },
 {
@@ -329,7 +330,7 @@
             "[+2 Happiness] <before the [Medieval era]>",
             "[+3 Happiness] <starting from the [Medieval era]>",
             "Provides a unique luxury", "Provides [1] [Triumphal Arch res]", 
-            "[Composite Bowman] units gain the [Khananei] promotion", "Unique Improvement [Triumphal Arch]", "[Worker] units gain the [Triumphal Arch prom] promotion"
+            "[Composite Bowman] units gain the [Khananei] promotion", "Unique Improvement [Triumphal Arch]"
         ],
         "color": [255, 216, 0]
     },
