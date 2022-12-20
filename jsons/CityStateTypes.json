@@ -14,7 +14,7 @@
         "color": [255, 0, 0]
     },
 {
-        "name": "M'Banza-Congo type",
+        "name": "M'Banza-Kongo type",
         "friendBonusUniques": ["Provides military units every ≈[20] turns"],
         "allyBonusUniques": ["Provides military units every ≈[17] turns",
         "[Swordsman] units gain the [Adageiros] promotion", "[Longswordsman] units gain the [Ambundu] promotion"],
