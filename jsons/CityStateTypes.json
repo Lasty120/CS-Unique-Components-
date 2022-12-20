@@ -141,39 +141,44 @@
         "color": [56, 255, 112]
     },
 {
-        "name": "Mogadishu",
+        "name": "Mogadishu type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "[Composite Bowman] units gain the [Slave Archer] promotion", "[Privateer] units gain the [African Pirates] promotion"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Maritime",
+        "name": "Rio de Janeiro type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Museum of Tomorrow res]", 
+        "[Musketman] units gain the [Baneirants] promotion", "Unique Building [Museum of Tomorrow]"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Maritime",
+        "name": "Sydney type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Sydney's Bridges res]", 
+        "[Rifleman] units gain the [Digger] promotion", "Unique Building [Sydney's Bridges]"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Maritime",
+        "name": "Ur type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Ziggurat res]", 
+        "[Spearman] units gain the [Phalanx] promotion", "Unique Building [Ziggurat]"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Maritime",
+        "name": "Vancouver",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Grenville-Iland res]", 
+        "[Worker] units gain the [Golden Mine worker] promotion", "Unique Building [Grenville-Iland]"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Maritime",
+        "name": "Venice",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Venetian Arsenal res]", 
+        "[Galleass] units gain the [Great Galleass] promotion", "Unique Building [Venetian Arsenal]"],
         "color": [56, 255, 112]
     },
 ]
