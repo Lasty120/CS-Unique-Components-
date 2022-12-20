@@ -45,7 +45,7 @@
             "[+6 Faith] <before the [Medieval era]>",
             "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Faith] <starting from the [Industrial era]>",
-            "Provides [1] [Castles System]", "Provides [1] [Horses]" "[Knight] units gain the [Slavic Knight] promotion", "Unique Building [Castles System]"
+            "Provides [1] [Castles System]", "Provides [1] [Horses]", "[Knight] units gain the [Slavic Knight] promotion", "Unique Building [Castles System]"
         ],
         "color": [255, 255, 255]
     },
