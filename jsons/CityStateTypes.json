@@ -85,7 +85,7 @@
             "[+6 Culture] <before the [Medieval era]>",
             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Tibetan Kumbum res]", "[Longswordsman] units gain the [Shaolin] promotion", 
-            "Unique Improvement [Tibetan Kumbum]"
+            "Unique Improvement [Tibetan Kumbum]", "[Worker] units gain the [Tibetan Kumbum prom] promotion"
         ],
         "color": [139, 96, 255]
     },
@@ -168,17 +168,104 @@
         "color": [56, 255, 112]
     },
 {
-        "name": "Vancouver",
+        "name": "Vancouver type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Grenville-Iland res]", 
-        "[Worker] units gain the [Golden Mine worker] promotion", "Unique Building [Grenville-Iland]"],
+        "[Worker] units gain the [Golden Mine prom] promotion", "Unique Building [Grenville-Iland]"],
         "color": [56, 255, 112]
     },
 {
-        "name": "Venice",
+        "name": "Venice type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Venetian Arsenal res]", 
         "[Galleass] units gain the [Great Galleass] promotion", "Unique Building [Venetian Arsenal]"],
         "color": [56, 255, 112]
     },
+{
+        "name": "Antwerp type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "Provides [1] [Diamond production res]", 
+            "[Pikeman] units gain the [Rondachier] promotion", "Unique Building [Diamond production]"
+        ],
+        "color": [255, 216, 0]
+    },
+{
+        "name": "Genoa type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "Provides [1] [Genoese Port res]", 
+            "[Crossbowman] units gain the [Genoese Crossbowman] promotion", "Unique Building [Genoese Port]"
+        ],
+        "color": [255, 216, 0]
+    },
+{
+        "name": "Kathmandu type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "Provides [1] [Boudhanath Stupa res]", 
+            "[Swordsman] units gain the [Gurka] promotion", "Unique Building [Boudhanath Stupa]"
+        ],
+        "color": [255, 216, 0]
+    },
+{
+        "name": "Singapore type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "[Battleship] units gain the [Singaporean Fleet] promotion",
+            "[+5 Gold] [in capital]", "[+5 Gold] [in capital] <starting from the [Classical era]>", "[+5 Gold] [in capital] <starting from the [Medieval era]>",
+            "[+5 Gold] [in capital] <starting from the [Renaissance era]>", "[+5 Gold] [in capital] <starting from the [Industrial era]>",
+            "[+5 Gold] [in capital] <starting from the [Modern era]>", "[+5 Gold] [in capital] <starting from the [Atomic era]>", "[+5 Gold] [in capital] <starting from the [Information era]>"
+        ],
+        "color": [255, 216, 0]
+    },
+{
+        "name": "Tyre type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "Provides [1] [Triumphal Arch res]", 
+            "[Composite Bowman] units gain the [Khananei] promotion", "Unique Improvement [Triumphal Arch]", "[Worker] units gain the [Triumphal Arch prom] promotion"
+        ],
+        "color": [255, 216, 0]
+    },
+{
+        "name": "Zanzibar type",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury", "Provides [1] [Island Tourism res]", 
+            "[Longswordsman] units gain the [Suahili warrior] promotion", "Unique Building [Island Tourism]"
+        ],
+        "color": [255, 216, 0]
+    },
+ 
 ]
