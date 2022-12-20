@@ -1,3 +1,179 @@
 [
-
+{
+        "name": "Brussels type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Atomium res]", "[Musketman] units gain the [Black Reiter] promotion", 
+            "Unique Building [Atomium]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Florence type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Great School of Arts res]", "[Composite Bowman] units gain the [Sagittaria] promotion", 
+            "Unique Building [Great School of Arts]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Hanoi type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Imperialist Citadel res]", "[Galleass] units gain the [Mong Dong] promotion", 
+            "Unique Building [Imperialist Citadel]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Kabul type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Dar-ul-Uman res]", "[Helicopter Gunship] units gain the [Afghan Air Defense] promotion", 
+            "Unique Building [Dar-ul-Uman]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Kuala Lumpur type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Batu Caves res]", "[Thireme] units gain the [Orang Laut] promotion", 
+            "Unique Building [Batu Caves]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Lhasa type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Tibetan Kumbum res]", "[Longswordsman] units gain the [Shaolin] promotion", 
+            "Unique Improvement [Tibetan Kumbum]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Milan res",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Castles System]", "[Knight] units gain the [Slavic Knight] promotion", 
+            "Unique Building [Castles System]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Quebec City type",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Museum of Civilizations]", "[Machine Gun] units gain the [Huota] promotion", 
+            "Unique Building [Museum of Civilizations]"
+        ],
+        "color": [139, 96, 255]
+    },
+{
+        "name": "Cape Town type",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Ickanda res]", 
+        "[Spearman] units gain the [Amabuto] promotion", "Unique Building [Ickanda]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Helsinki type",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Finnish Sauna res]", 
+        "[Machine Gun] units gain the [Finnish Sniper] promotion", "Unique Building [Finnish Sauna]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Manila type",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Fillipian Harbor rea]", 
+        "[Swordsman] units gain the [Lapu-Lapu warrior] promotion", "Unique Building [Fillipian Harbor]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Mogadishu",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "[Composite Bowman] units gain the [Slave Archer] promotion", "[Privateer] units gain the [African Pirates] promotion"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Maritime",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Maritime",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Maritime",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Maritime",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "color": [56, 255, 112]
+    },
+{
+        "name": "Maritime",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "color": [56, 255, 112]
+    },
 ]
