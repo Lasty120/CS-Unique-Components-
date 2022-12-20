@@ -28,4 +28,9 @@
   "name": "Slavic Knight",
   "uniques": ["Provides [1] [Horses] <before discovering [Military Science]>", "[+10]% Strength <before discovering [Military Science]>"]
     },
+{
+  "name": "Cahokian warrior",
+  "uniques": ["[+20]% Strength <before discovering [Civil Service]>", "[+100]% Strength <when fighting in [Cahokian Kurgan] tiles> <before discovering [Civil Service]>",
+"[+50]% Strength <when fighting in [Cahokian Kurgan] tiles> <after discovering [Civil Service]>"]
+    },
 ]
