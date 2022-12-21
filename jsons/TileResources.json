@@ -1,5 +1,15 @@
 [
 {
+		"name": "Aport",
+		"resourceType": "Luxury",
+		"uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+		"name": "Purple Glass",
+		"resourceType": "Luxury",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
 		"name": "Aport production res",
 		"resourceType": "Bonus",
 		"uniques": ["Will not be displayed in Civilopedia"]
