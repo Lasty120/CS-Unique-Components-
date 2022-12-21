@@ -269,7 +269,7 @@
 },
 {
   "name": "Grenville-Iland",
-  "percentStatBonus" {"culture": 15},
+  "percentStatBonus": {"culture": 15},
   "cost": 160,
   "uniques": ["Only available <with [Grenville-Iland res]>", "Only available <after discovering [Compass]>",
   "Must be next to [Coast]", "[+1 Culture] from every [Coast] [in this city]"],
