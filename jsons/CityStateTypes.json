@@ -259,7 +259,7 @@
         "name": "Venice type",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides [1] [Venetian Arsenal res]", 
-        "[Galleass] units gain the [Great Galleass] promotion", "Unique Building [Venetian Arsenal]"],
+        "[Galleass] units gain the [Greatt Galleass] promotion", "Unique Building [Venetian Arsenal]"],
         "color": [56, 255, 112]
     },
 {
