@@ -20,7 +20,7 @@
 },
 {
   "name": "Sforza's Castle"
-  "percentStatBonus" {"culture": 10},
+  "percentStatBonus": {"culture": 10},
   "culture": 3,
   "requiredBuilding": "Walls",
   "cityStrength": 7,
