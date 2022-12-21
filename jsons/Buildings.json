@@ -132,7 +132,7 @@
 },
 {
   "name": "Dar-ul-Aman",
-  "percentStatBonus" {"culture": 15},
+  "percentStatBonus": {"culture": 15},
   "isNationalWonder": true,
   "cost": 160,
   "uniques": ["Only available <with [Dar-ul-Aman res]>", "Only available <after discovering [Masonry]>",
@@ -140,7 +140,7 @@
 },
 {
   "name": "Batu Caves"
-  "percentStatBonus" {"production": 5},
+  "percentStatBonus": {"production": 5},
   "faith": 3,
   "replaces": "Garden"
   "production": 2,
@@ -183,7 +183,7 @@
 },
 {
   "name": "Museum of Tomorrow",
-  "percentStatBonus" {"science": 10},
+  "percentStatBonus": {"science": 10},
   "isNationalWonder": true,
   "cost": 600,
   "uniques": ["Only available <with [Museum of Tomorrow res]>", "Only available <after discovering [Archaeology]>",
