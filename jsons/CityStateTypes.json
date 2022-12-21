@@ -195,7 +195,7 @@
         "allyBonusUniques": [
             "[+6 Culture] <before the [Medieval era]>",
             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Museum of Civilizations]", "[Machine Gun] units gain the [Huota] promotion", 
+            "[+26 Culture] <starting from the [Industrial era]>", "Provides [1] [Museum of Civilizations res]", "[Machine Gun] units gain the [Huota] promotion", 
             "Unique Building [Museum of Civilizations]"
         ],
         "color": [139, 96, 255]
