@@ -21,14 +21,14 @@
         "color": [255, 0, 0]
     },
 {
-        "name": "Sidon",
+        "name": "Sidon type",
         "friendBonusUniques": ["Provides military units every ≈[20] turns"],
         "allyBonusUniques": ["Provides military units every ≈[17] turns",
         "Provides [1] [Purple Glass production res]", "[Trireme] units gain the [Bireme] promotion", "Unique Building [Purple Glass production]"],
         "color": [255, 0, 0]
     },
 {
-        "name": "Valletta",
+        "name": "Valletta type",
         "friendBonusUniques": ["Provides military units every ≈[20] turns"],
         "allyBonusUniques": ["Provides military units every ≈[17] turns",
         "Provides [1] [Castle-Wall res]", "[Crossbowman] units gain the [Difensur] promotion", "Unique Building [Castle-Wall]"],
@@ -50,7 +50,7 @@
         "color": [255, 255, 255]
     },
 {
-        "name": "Cahokia",
+        "name": "Cahokia type",
         "friendBonusUniques":  [
             "[+3 Faith] <before the [Medieval era]>",
             "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -66,7 +66,7 @@
         "color": [255, 255, 255]
     },
 {
-        "name": "Jerusalem",
+        "name": "Jerusalem type",
         "friendBonusUniques":  [
             "[+3 Faith] <before the [Medieval era]>",
             "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
