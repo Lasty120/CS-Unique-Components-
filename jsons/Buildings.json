@@ -165,7 +165,8 @@
   "specialistSlots": {"Artist": 2},
   "cost": 600,
   "uniques": ["Only available <with [Museum of Civilizations res]>", "Only available <after discovering [Archaeology]>",
-  "[+1 Culture] from every [Monument, Aqueduct, Colosseum, Library]"],
+  "[+1 Culture] from every [Aqueduct]", "[+1 Culture] from every [Colosseum]",
+  "[+1 Culture] from every [Monument]", "[+1 Culture] from every [Library]"],
 },
 {
   "name": "Museum of Tomorrow",
