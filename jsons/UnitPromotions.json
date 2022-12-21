@@ -31,7 +31,7 @@
     },
 {
   "name": "Slavic Knight",
-  "uniques": ["Consumes [-1] [Horses] <before discovering [Military Science]>", "[+10]% Strength <before discovering [Military Science]>"]
+  "uniques": ["[+12] HP when healing <in [Friendly Land] tiles>", "[+10]% Strength <before discovering [Military Science]>"]
     },
 {
   "name": "Cahokian warrior",
