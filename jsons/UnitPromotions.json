@@ -1,4 +1,8 @@
 [
+{
+  "name": "Sydney's Bridges prom",
+  "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark"]
+},
   {
   "name": "Fiery Nomad",
   "uniques": ["[+50]% Strength <vs [Siege] units>"]
