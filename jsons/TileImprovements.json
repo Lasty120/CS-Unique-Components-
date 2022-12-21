@@ -2,7 +2,7 @@
 {
   "name": "Golden Mine",
   "terrainsCanBeBuiltOn": ["Hill"],
-  "uniques": ["Provides [1] [Golden Ore]", "[+1 Production] <after discovering [Chemistry]>"],
+  "uniques": ["Provides [1] [Gold Ore]", "[+1 Production] <after discovering [Chemistry]>"],
   "gold": 2,
   "faith": 1
 },
