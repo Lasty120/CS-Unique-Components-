@@ -474,8 +474,8 @@ CityStateIcons/Zanzibar type
   index: -1
 CityStateIcons/Cape Town type
   rotate: false
-  xy: 620, 312
-  size: 928, 620
+  xy: 928, 620
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
