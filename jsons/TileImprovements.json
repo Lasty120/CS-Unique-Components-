@@ -4,7 +4,7 @@
   "terrainsCanBeBuiltOn": ["Hill"],
   "uniques": ["Provides [1] [Gold Ore]", "[+1 Production] <after discovering [Chemistry]>"],
   "gold": 2,
-  "faith": 1
+  "production": 1
 },
 {
   "name": "Triumphal Arch",
