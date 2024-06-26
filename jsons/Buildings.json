@@ -79,9 +79,8 @@
 {
 		"name": "Temple",
 		"faith": 2,
-		"requiredBuilding": "Shrine",
 		"maintenance": 2,
-		"cost": 100,
+		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
     "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>"]
